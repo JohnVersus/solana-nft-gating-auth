@@ -32,7 +32,7 @@ Open [http://localhost:8000](http://localhost:8000) with your browser to see the
 
 To learn more about Morlais API, take a look at [Moralis Docs](https://docs.moralis.io/moralis-dapp/solana-api).
 
-To get you questions clarified about moralis reach out to Moralis [forum](https://forum.moralis.io/) or [discord](https://moralis.io/joindiscord/)
+To get you questions answered reach out to Moralis [forum](https://forum.moralis.io/) or [discord](https://moralis.io/joindiscord/)
 
 To learn more about Next.js, take a look at the following resources:
 
