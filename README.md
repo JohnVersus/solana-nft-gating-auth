@@ -1,14 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Getting Started
 
-# Setup .env.local
+## Setup .env.local
 
 Get the Solana API key from [Moralis admin page](https://admin.moralis.io/web3apis)
 
 Rename the .env.local.example to .env.local and add the required API and NFT secrets.
 
-# Install Packages
+## Install Packages
 
 Run yarn install to install the packages
 
@@ -18,7 +18,7 @@ or
 yarn install
 ```
 
-# Start local server
+## Start local server
 
 Run the development server in port 8000 as the `NEXTAUTH_URL` in env.local file is set to this port. Can be updated to the required port.
 
