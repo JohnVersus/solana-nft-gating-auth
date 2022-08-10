@@ -1,0 +1,69 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  width: auto;
+  height: 50vh;
+  padding: 8px;
+  border-radius: 36px;
+  box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.25);
+  border-top-style: solid;
+  border-left-style: solid;
+  border-top-color: #2ac4d9;
+  border-left-color: #2ac4d9;
+}
+
+.card:hover {
+  box-shadow: 3px 3px 3px 0 rgba(0, 0, 0, 0.25);
+}
+
+.data {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+
+.dataCell {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.address {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.accessCard {
+  width: 100px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  text-align: center;
+  border-style: solid;
+  border-color: #2dace7;
+}
+
+.buttonsRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+}

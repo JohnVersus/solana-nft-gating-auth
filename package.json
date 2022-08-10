@@ -9,7 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@web3uikit/core": "^0.1.4",
+    "moralis": "^2.0.0-beta.7",
     "next": "12.2.4",
+    "next-auth": "^4.10.3",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
